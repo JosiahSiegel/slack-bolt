@@ -80,4 +80,5 @@ Tips:
 [Glitch](https://glitch.com/~slack-boltjs-app)
 [GitHub](https://github.com/JosiahSiegel/slack-boltjs-app)
 
+
 [1]: https://slack.com/help/articles/115004151203-Slack-Connect-guide--work-with-external-organizations
