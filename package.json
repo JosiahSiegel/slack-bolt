@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "dotenv": "^16",
-    "@slack/bolt": "^3.18.0",
+    "@slack/bolt": "^3.19.0",
     "node-localstorage": "^3.0.5"
   },
   "engines": {
@@ -21,7 +21,7 @@
   },
   "license": "MIT",
   "devDependencies": {
-    "eslint": "9.4.0",
-    "eslint-config-eslint": "^10.0.0"
+    "eslint": "9.5.0",
+    "eslint-config-eslint": "^11.0.0"
   }
 }
