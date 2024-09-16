@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "dotenv": "^16",
-    "@slack/bolt": "^3.21.1",
+    "@slack/bolt": "^3.21.4",
     "node-localstorage": "^3.0.5"
   },
   "engines": {
